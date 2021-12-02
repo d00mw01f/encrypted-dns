@@ -33,7 +33,7 @@
 	<key>PayloadDisplayName</key>
 	<string>Tiarap DNS over TLS</string>
 	<key>PayloadIdentifier</key>
-	<string>55d8352c-6455-421a-8b74-b0bf3e03b7a0</string>
+	<string>com.paulmillr.apple-dns.tiarapp-tls</string>
 	<key>PayloadRemovalDisallowed</key>
 	<false/>
 	<key>PayloadType</key>

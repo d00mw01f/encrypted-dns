@@ -14,7 +14,7 @@
 			<string>Privacy policy: https://alekberg.net/privacy</string>
 		</dict>
 		<key>PayloadIdentifier</key>
-		<string>com.apple.dnsSettings.managed.13778881-645b-4187-847a-76e2784e9b14</string>
+		<string>com.paulmillr.apple-dns.alekgerg-https</string>
 		<key>PayloadScope</key>
 		<string>User</string>
 		<key>PayloadType</key>

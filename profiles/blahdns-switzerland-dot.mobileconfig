@@ -15,7 +15,7 @@
 https://blahdns.com</string>
 		</dict>
 		<key>PayloadIdentifier</key>
-		<string>3ad2f21d-c5d2-4b0a-8d33-2d9425c89d49</string>
+		<string>com.paulmillr.apple-dns.blahdns-switzerland-dot</string>
 		<key>PayloadScope</key>
 		<string>User</string>
 		<key>PayloadType</key>

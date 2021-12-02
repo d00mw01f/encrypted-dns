@@ -40,7 +40,7 @@
 	<key>PayloadDisplayName</key>
 	<string>AdGuard Family Protection DNS over HTTPS</string>
 	<key>PayloadIdentifier</key>
-	<string>com.paulmillr.apple-dns</string>
+	<string>com.paulmillr.apple-dns.adguard-family-https</string>
 	<key>PayloadRemovalDisallowed</key>
 	<false/>
 	<key>PayloadType</key>

@@ -40,7 +40,7 @@
 	<key>PayloadDisplayName</key>
 	<string>Quad9 with ECS Encrypted DNS over TLS</string>
 	<key>PayloadIdentifier</key>
-	<string>com.paulmillr.apple-dns</string>
+	<string>com.paulmillr.apple-dns.quad9-ECS-tls</string>
 	<key>PayloadRemovalDisallowed</key>
 	<false/>
 	<key>PayloadType</key>

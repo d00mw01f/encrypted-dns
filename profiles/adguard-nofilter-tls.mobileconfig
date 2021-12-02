@@ -40,7 +40,7 @@
 	<key>PayloadDisplayName</key>
 	<string>Adguard No Filter over TLS</string>
 	<key>PayloadIdentifier</key>
-	<string>com.paulmillr.apple-dns</string>
+	<string>com.paulmillr.apple-dns.adguard-nofilter-tls</string>
 	<key>PayloadRemovalDisallowed</key>
 	<false/>
 	<key>PayloadType</key>

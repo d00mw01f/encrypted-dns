@@ -33,7 +33,7 @@
 	<key>PayloadDisplayName</key>
 	<string>OpenDNS Encrypted DNS</string>
 	<key>PayloadIdentifier</key>
-	<string>com.paulmillr.apple-dns</string>
+	<string>com.paulmillr.apple-dns.opendns-https</string>
 	<key>PayloadRemovalDisallowed</key>
 	<false/>
 	<key>PayloadType</key>
